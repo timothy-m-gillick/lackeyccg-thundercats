@@ -1,0 +1,5 @@
+Thundercats	08-03-22
+plugins/Thundercats/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-thundercats/raw/main/plugininfo.txt	142252
+plugins/Thundercats/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-thundercats/raw/main/cardback.jpg	437847
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1yGVrRBQfsL_ByuXQ8PdodjoVtyEWhdg4?usp=sharing
